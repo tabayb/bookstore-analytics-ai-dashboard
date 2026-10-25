@@ -10,3 +10,6 @@ data.zip
 
 # Temporary exports
 daily_revenue_store*.png
+
+# Windows download metadata
+*:Zone.Identifier
