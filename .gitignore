@@ -1,0 +1,12 @@
+.venv/
+.streamlit/secrets.toml
+.env
+__pycache__/
+*.pyc
+
+# Archives and local backups
+data.zip
+*_backup.py
+
+# Temporary exports
+daily_revenue_store*.png
